@@ -1,0 +1,14 @@
+Menjadi Web-Developer
+-Belajar Front-end
+Html & css dasar
+Tag, element, atribut
+Javascript Dasar
+Membuat homepage
+-Belajar Back-end
+Mendalami Javascript
+Nodejs
+Database
+framework
+
+-Membuat aplikasi
+menjadi full stack Developer
