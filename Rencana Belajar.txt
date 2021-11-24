@@ -12,6 +12,7 @@ Framework
 
 -Memulai karir
 Membuat aplikasi
+MEmbuat Portfolio
 Bergabung perusahaan
 Mendalami pemrograman
 Menjadi Fullstack Developer
