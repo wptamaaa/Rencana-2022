@@ -12,3 +12,5 @@ framework
 
 -Membuat aplikasi
 menjadi full stack Developer
+
+-memulai karir
