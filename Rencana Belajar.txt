@@ -8,9 +8,11 @@ Membuat homepage
 Mendalami Javascript
 Nodejs
 Database
-framework
+Framework
 
 -Memulai karir
-membuat aplikasi
-bergabung perusahaan
-mendalami pemrograman
+Membuat aplikasi
+Bergabung perusahaan
+Mendalami pemrograman
+Menjadi Fullstack Developer
+Freelacer sebagai waktu luang
